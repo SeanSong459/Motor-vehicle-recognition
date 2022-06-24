@@ -1,4 +1,4 @@
-# Motor vehicle recognition project
+# Motor Vehicle Recognition Project
 This week’s task is to create a prototype that allows a user to upload the picture of a  car, and then find a similar car from stock to recommend to customers.
 I went with Google Vision's AutoML, which allows you to train high-quality custom machine learning models, after which the trained model was exported as a TensorFlow.js to be used in the browser.
 
